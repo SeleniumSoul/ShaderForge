@@ -1,0 +1,17 @@
+{
+  "name": "com.tools.shaderforge",
+  "displayName": "Shader Forge",
+  "description": "A Shader Editor for Unity",
+  "version": "1.0.0",
+  "unity": "2017.1",
+  "license": "MIT",
+  "author": {
+    "name": "Freya Holmer",
+    "email": "",
+    "url": ""
+  },
+  "dependencies": {},
+  "keywords": [
+    "shader"
+  ]
+}
