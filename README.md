@@ -1,3 +1,6 @@
+USE THE PACKAGE BRANCH! - SeleniumSoul
+
+--------------------------------
 hey everyone~
 
 I will occasionally update this repository with fixes and features!
